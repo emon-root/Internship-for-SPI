@@ -1,27 +1,27 @@
-**Networking
+**Networking**
 
 
 ** ১) নেটওয়ার্ক পরিচিতি (Introduction to Networks)
-নেটওয়ার্ক কি?
-নেটওয়ার্কের প্রকারভেদ
-টপোলজি (Topology)
-ক্যাবল (Cable)
-ওয়্যারলেস মিডিয়া
-রিপিটার (Repeater)
-ব্রিজ (Bridge)
-হাব (Hub)
-সুইচ (Switch)
-রাউটার (Router)
-গেটওয়ে (Gateway)
+--নেটওয়ার্ক কি?
+--নেটওয়ার্কের প্রকারভেদ
+--টপোলজি (Topology)
+--ক্যাবল (Cable)
+--ওয়্যারলেস মিডিয়া
+--রিপিটার (Repeater)
+--ব্রিজ (Bridge)
+--হাব (Hub)
+--সুইচ (Switch)
+--রাউটার (Router)
+--গেটওয়ে (Gateway)
 
 **2) OSI মডেল
-এপ্লিকেশন লেয়ার / Application Layer
-প্রজেন্টেশন লেয়ার / Presentation Layer
-সেশন লেয়ার / Session Layer
-ট্রান্সপোর্ট লেয়ার / Transport Layer
-নেটওর্য়াক লেয়ার / Network Layer
-ডাটালিংক লেয়ার / Data Link Layer
-ফিজিক্যাল লেয়ার / Physical Layer
+--এপ্লিকেশন লেয়ার / Application Layer
+--প্রজেন্টেশন লেয়ার / Presentation Layer
+--সেশন লেয়ার / Session Layer
+--ট্রান্সপোর্ট লেয়ার / Transport Layer
+--নেটওর্য়াক লেয়ার / Network Layer
+--ডাটালিংক লেয়ার / Data Link Layer
+--ফিজিক্যাল লেয়ার / Physical Layer
 
 **৩) টিসিপি /আইপি পরিচিতি (TCP/IP Basics)
 বেসিক ধারনা
