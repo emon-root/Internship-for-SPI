@@ -129,18 +129,18 @@
 ### Services & ListView
 ### All About Databases
 ### Working With Multimedia
-  ** How To Play Video 
-  ** How To Capture Image. 
-  ** How To Take Photos With Camera 
-  ** Adding Effects To Image 
-  ** How To Invert An Image 
-  ** How To Create Photo Filter 
-  ** Adding Notifications To App 
-  ** Adding Custom Notifications 
-  ** Adding Styles 
-  ** Debugging and running apps made easy: How to run applications without emulator. 
+  ###### How To Play Video 
+  ###### How To Capture Image. 
+  ###### How To Take Photos With Camera 
+  ###### Adding Effects To Image 
+  ###### How To Invert An Image 
+  ###### How To Create Photo Filter 
+  ###### Adding Notifications To App 
+  ###### Adding Custom Notifications 
+  ###### Adding Styles 
+  ###### Debugging and running apps made easy: How to run applications without emulator. 
 ### Preferences
-  ** SharedPreference 
+  ###### SharedPreference 
 
 ### Check Box, Radio Button, Button Icons
 ### Navigation Drawer
